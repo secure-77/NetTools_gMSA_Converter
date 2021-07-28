@@ -1,4 +1,4 @@
-# NetTools_gMSA_Converter
+# NetTools gMSA Converter
  Tool to convert gMSA passwords from HEX to MD4 / NT hashes
  
  
